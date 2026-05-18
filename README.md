@@ -1,5 +1,7 @@
 # Python Project Practice Run
 
+Hello world!
+
 Welcome to your first Python programming assignment.
 
 ## The goal
